@@ -1,0 +1,146 @@
+body{
+    background-color: blue;
+    margin: 0 auto;
+    padding: 50px;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    
+}
+header{
+    background-color: aliceblue;
+    margin: 0 auto;
+    padding: 10px;
+    width: 90%;
+    height: 150px;
+    display: block;
+    text-align: center;
+    align-content: center;
+    line-height: 5;
+}
+#image1{
+    background-color: rebeccapurple;
+    margin: 0;
+    padding: 0;
+    width: 30%;
+    height:100%;
+    float: left;
+}
+#project{
+    background-color: plum;
+    margin:0;
+    padding: 0;
+    width: 70%;
+    height: 100%;
+    float: left;
+    text-align: center;
+}
+main{
+    margin: 0 auto;
+    padding: 0;
+    background-color: aquamarine;
+    display: block;
+    box-sizing: border-box;
+    width: 85%;
+    height: 20em;
+    text-align: center;
+    line-height: 5;
+}
+#sec1{
+    margin: 0;
+    background-color: papayawhip;
+    width: 100%;
+    height: 5em;
+    padding: 5px;
+    
+}
+#text1{
+    margin: 0;
+    padding: 0;
+    background-color: deeppink;
+    width: calc(100%/3);
+    height: 100%;
+    float: left;
+    
+}
+#text2{
+    background-color: pink;
+    margin: 0;
+    padding: 0;
+    width: calc(100%/3);
+    height: 100%;
+    float: left;
+}
+#text3{
+    margin: 0;
+    padding: 0;
+    background-color: deeppink;
+    width: calc(100%/3);
+    height: 100%;
+    float: left;
+}
+#sec2{
+    margin: 0;
+    padding: 5px;
+    background-color: white;
+    width: 100%;
+    height: 5em;
+    
+}
+#image2{
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+    width: calc(100%/2);
+    height: 100%;
+    float: left; 
+}
+#info{
+    margin: 0;
+    padding: 0;
+    background-color: gainsboro;
+    width: calc(100%/2);
+    float: right;
+    height: 100%;
+}
+#sec3{
+    margin: 0;
+    padding: 5px;
+    width: 100%;
+    height: 8em;
+    background-color: greenyellow
+    
+}
+#box1{
+    margin: 0;
+    padding: 0;
+    background-color: green;
+    width: calc(100%/3);
+    height: 90%;
+    float: left;    
+}
+#box2{
+     margin: 0;
+    padding: 0;
+    background-color: gold;
+    width: calc(100%/3);
+    height: 90%;
+    float: left;
+}
+#box3{ margin: 0;
+    padding: 0;
+    background-color: forestgreen;
+    width: calc(100%/3);
+    height: 90%;
+    float: left;
+}
+
+footer{
+    margin: 0 auto;
+    padding: 1em;
+    background-color: brown;
+    width: 90%;
+    height: 8em;
+    text-align: right;
+    
+}
