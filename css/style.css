@@ -41,15 +41,14 @@ main{
     background-color: aquamarine;
     display: block;
     box-sizing: border-box;
-    width: 85%;
+    width: 90%;
     height: 20em;
     text-align: center;
     line-height: 1;
 }
 #sec1{
-    margin: 0;
+    margin: 0 auto;
     background-color: papayawhip;
-    width: 100%;
     height: 5em;
     padding: 5px;
     
@@ -80,13 +79,14 @@ main{
     float: left;
 }
 #sec2{
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     background-color: white;
-    width: 100%;
+    width: 95%;
     height: 5em;
     
 }
+
 #image2{
     margin: 0;
     padding: 0;
@@ -95,6 +95,7 @@ main{
     height: 100%;
     float: left; 
 }
+
 #info{
     margin: 0;
     padding: 0;
@@ -105,10 +106,11 @@ main{
 }
 #sec3{
     margin: 0;
-    padding: 5px;
-    width: 100%;
+    padding: 10px;
+    width: 96%;
     height: 8em;
-    background-color: greenyellow
+    background-color: greenyellow;
+    line-height: 7;
     
 }
 #box1{
@@ -140,7 +142,11 @@ footer{
     padding: 1em;
     background-color: brown;
     width: 90%;
-    height: 8em;
+    height: 1em;
     text-align: right;
     
+}
+#img2{
+    margin: 0 auto;
+    float: right;
 }
